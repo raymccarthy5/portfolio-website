@@ -287,6 +287,8 @@ display: flex;
 border-radius: 2rem;
 }
 
+
+
 .arrow {
 position: absolute;
 right: -5rem;
@@ -301,6 +303,8 @@ border-radius: 2rem;
 border: rgb(53, 53, 53) 0.1rem solid;
 border-color: rgb(163, 163, 163);
 text-align: center;
+max-width: 350px; 
+margin: auto;
 }
 
 .section-container {
